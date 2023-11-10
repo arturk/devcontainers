@@ -25,7 +25,8 @@
 				"ms-python.vscode-pylance",
 				"KevinRose.vsc-python-indent",
 				"aaron-bond.better-comments",
-				"almenon.arepl"
+				"almenon.arepl",
+				"ritwickdey.LiveServer"
 			]
 		}
 	},
